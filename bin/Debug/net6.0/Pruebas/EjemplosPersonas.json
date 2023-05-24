@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "nombre": "Antonio",
+    "apellido": "Barrios",
+    "numeroDocumento": "5116168",
+    "correoElectronico": "acbleguizamon@gmail.com",
+    "telefono": "string",
+    "fechaNacimiento": "2023-05-24T00:23:55.539Z"
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "López",
+    "numeroDocumento": "12345678",
+    "correoElectronico": "marialopez@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1990-08-15T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "numeroDocumento": "98765432",
+    "correoElectronico": "juanperez@gmail.com",
+    "telefono": "987654321",
+    "fechaNacimiento": "1985-03-10T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana",
+    "apellido": "García",
+    "numeroDocumento": "87654321",
+    "correoElectronico": "anagarcia@gmail.com",
+    "telefono": "987654321",
+    "fechaNacimiento": "1992-12-01T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro",
+    "apellido": "Ramírez",
+    "numeroDocumento": "23456789",
+    "correoElectronico": "pedroramirez@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1988-07-20T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Laura",
+    "apellido": "Hernández",
+    "numeroDocumento": "34567890",
+    "correoElectronico": "laurahernandez@gmail.com",
+    "telefono": "987654321",
+    "fechaNacimiento": "1995-04-05T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Carlos",
+    "apellido": "González",
+    "numeroDocumento": "45678901",
+    "correoElectronico": "carlosgonzalez@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1990-11-15T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Sofía",
+    "apellido": "López",
+    "numeroDocumento": "56789012",
+    "correoElectronico": "sofialopez@gmail.com",
+    "telefono": "987654321",
+    "fechaNacimiento": "1987-09-10T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Diego",
+    "apellido": "Martínez",
+    "numeroDocumento": "67890123",
+    "correoElectronico": "diegomartinez@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1998-02-25T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Mariana",
+    "apellido": "Ortega",
+    "numeroDocumento": "78901234",
+    "correoElectronico": "marianaortega@gmail.com",
+    "telefono": "987654321",
+    "fechaNacimiento": "1993-06-08T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "nombre": "Alejandro",
+    "apellido": "Silva",
+    "numeroDocumento": "89012345",
+    "correoElectronico": "alejandrosilva@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1985-12-18T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "nombre": "Javier",
+    "apellido": "Morales",
+    "numeroDocumento": "01234567",
+    "correoElectronico": "javiermorales@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1991-10-12T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "nombre": "Diego",
+    "apellido": "Medina",
+    "numeroDocumento": "888888",
+    "correoElectronico": "diegomedinazz@gmail.com",
+    "telefono": "123456789",
+    "fechaNacimiento": "1988-11-23T00:00:00Z"
+  }
+]
